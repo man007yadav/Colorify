@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Colorify!</string>
+    <color name="rojo">#FF0000</color>
+    <color name="blanco">#FFFFFF</color>
+
+    <string name="texto_creditos">
+	Colorify is an android app which is used to identify colors around us. Being real-time the app gives instant results so that the user need not waste uneccesary time.
+    </string>
+</resources>
